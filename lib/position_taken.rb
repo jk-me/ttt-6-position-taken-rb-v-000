@@ -4,4 +4,5 @@ def position_taken? (board,i)
     return FALSE
   else
     return TRUE
+  end
 end
